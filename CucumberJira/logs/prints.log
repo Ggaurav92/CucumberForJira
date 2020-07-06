@@ -1,0 +1,71 @@
+15:30:56.326 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :3 Then  I can see the product added to cart
+15:30:58.318 [main] INFO  com.stepDefinitions.ServiceHooks:103 - Closed the browser and driver instance
+15:30:58.381 [main] INFO  com.stepDefinitions.ServiceHooks:65 - AddtoCart folder created in WordDocs folder
+15:30:58.383 [main] INFO  com.stepDefinitions.ServiceHooks:71 - Add multiple products to cart folder created in the Current Feature File folder in WordDocs
+15:30:58.386 [main] INFO  com.stepDefinitions.ServiceHooks:85 - AddtoCart folder created in Screenshot and Add multiple products to cart folder created in it
+15:31:11.792 [main] INFO  com.stepDefinitions.CartStepDefinition:31 - Driver initiated
+15:32:49.140 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :0 Given  I am on HomePage using the url "https://rahulshettyacademy.com/seleniumPractise/#/"
+15:32:49.994 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add multiple products to cart/0 Given.png
+15:32:50.948 [main] ERROR com.stepDefinitions.ServiceHooks:95 - Attaching error screenshot in the Advanced report
+15:32:51.914 [main] INFO  com.stepDefinitions.ServiceHooks:103 - Closed the browser and driver instance
+16:21:13.291 [main] INFO  com.stepDefinitions.ServiceHooks:65 - AddtoCart folder created in WordDocs folder
+16:21:13.351 [main] INFO  com.stepDefinitions.ServiceHooks:71 - Add a product to cart folder created in the Current Feature File folder in WordDocs
+16:21:13.355 [main] INFO  com.stepDefinitions.ServiceHooks:85 - AddtoCart folder created in Screenshot and Add a product to cart folder created in it
+16:21:39.299 [main] INFO  com.stepDefinitions.CartStepDefinition:31 - Driver initiated
+16:21:50.879 [main] INFO  com.stepDefinitions.CartStepDefinition:39 - HomePage Opened Successfully
+16:21:51.630 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :0 Given  I am on HomePage using the url "https://rahulshettyacademy.com/seleniumPractise/#/"
+16:21:52.648 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/0 Given.png
+16:21:58.705 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :0 Given  I am on HomePage using the url "https://rahulshettyacademy.com/seleniumPractise/#/"
+16:22:01.354 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :1 When  I click add button under a product
+16:22:02.144 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/1 When .png
+16:22:02.652 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :1 When  I click add button under a product
+16:22:04.785 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :2 And  I click on cart icon
+16:22:05.519 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/2 And  .png
+16:22:05.748 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :2 And  I click on cart icon
+16:22:07.611 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :3 Then  I can see the product added to cart
+16:22:08.411 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/3 Then .png
+16:22:08.675 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :3 Then  I can see the product added to cart
+16:22:10.055 [main] INFO  com.stepDefinitions.ServiceHooks:103 - Closed the browser and driver instance
+16:22:10.093 [main] INFO  com.stepDefinitions.ServiceHooks:65 - AddtoCart folder created in WordDocs folder
+16:22:10.094 [main] INFO  com.stepDefinitions.ServiceHooks:71 - Add multiple products to cart folder created in the Current Feature File folder in WordDocs
+16:22:10.095 [main] INFO  com.stepDefinitions.ServiceHooks:85 - AddtoCart folder created in Screenshot and Add multiple products to cart folder created in it
+16:22:24.506 [main] INFO  com.stepDefinitions.CartStepDefinition:31 - Driver initiated
+19:31:25.844 [main] INFO  com.stepDefinitions.ServiceHooks:65 - AddtoCart folder created in WordDocs folder
+19:31:25.944 [main] INFO  com.stepDefinitions.ServiceHooks:71 - Add a product to cart folder created in the Current Feature File folder in WordDocs
+19:31:25.946 [main] INFO  com.stepDefinitions.ServiceHooks:85 - AddtoCart folder created in Screenshot and Add a product to cart folder created in it
+19:31:50.887 [main] INFO  com.stepDefinitions.CartStepDefinition:31 - Driver initiated
+19:32:01.062 [main] INFO  com.stepDefinitions.CartStepDefinition:39 - HomePage Opened Successfully
+19:32:02.216 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :0 Given  I am on HomePage using the url "https://rahulshettyacademy.com/seleniumPractise/#/"
+19:32:03.333 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/0 Given.png
+19:32:10.115 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :0 Given  I am on HomePage using the url "https://rahulshettyacademy.com/seleniumPractise/#/"
+19:32:14.201 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :1 When  I click add button under a product
+19:32:15.150 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/1 When .png
+19:32:15.461 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :1 When  I click add button under a product
+19:32:18.226 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :2 And  I click on cart icon
+19:32:19.157 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/2 And  .png
+19:32:19.384 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :2 And  I click on cart icon
+19:32:21.332 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :3 Then  I can see the product added to cart
+19:32:22.260 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add a product to cart/3 Then .png
+19:32:22.453 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :3 Then  I can see the product added to cart
+19:32:24.089 [main] INFO  com.stepDefinitions.ServiceHooks:103 - Closed the browser and driver instance
+19:32:24.249 [main] INFO  com.stepDefinitions.ServiceHooks:65 - AddtoCart folder created in WordDocs folder
+19:32:24.251 [main] INFO  com.stepDefinitions.ServiceHooks:71 - Add multiple products to cart folder created in the Current Feature File folder in WordDocs
+19:32:24.253 [main] INFO  com.stepDefinitions.ServiceHooks:85 - AddtoCart folder created in Screenshot and Add multiple products to cart folder created in it
+19:32:41.578 [main] INFO  com.stepDefinitions.CartStepDefinition:31 - Driver initiated
+19:32:50.028 [main] INFO  com.stepDefinitions.CartStepDefinition:39 - HomePage Opened Successfully
+19:32:50.918 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :0 Given  I am on HomePage using the url "https://rahulshettyacademy.com/seleniumPractise/#/"
+19:32:52.225 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add multiple products to cart/0 Given.png
+19:32:52.590 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :0 Given  I am on HomePage using the url "https://rahulshettyacademy.com/seleniumPractise/#/"
+19:32:56.977 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :1 When  I add the first four products in list
+19:32:58.091 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add multiple products to cart/1 When .png
+19:32:58.468 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :1 When  I add the first four products in list
+19:33:01.189 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :2 And  I click on cart icon
+19:33:02.080 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add multiple products to cart/2 And  .png
+19:33:02.218 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :2 And  I click on cart icon
+19:33:04.363 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :3 When  I click on Proceed to Checkout Button
+19:33:05.132 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add multiple products to cart/3 When .png
+19:33:05.321 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :3 When  I click on Proceed to Checkout Button
+19:33:07.376 [main] INFO  com.stepDefinitions.ServiceHooks:133 - Screenshot attached in Advanced Report for :4 Then  the following items are added to the the cart
+19:33:07.998 [main] INFO  com.stepDefinitions.ServiceHooks:140 - Took the screenshot for evidence and saved it in path : ./Evidences/Screenshot/AddtoCart/Add multiple products to cart/4 Then .png
+19:33:08.088 [main] INFO  com.stepDefinitions.ServiceHooks:146 - Word doc prepared and screenshot attached for the step :4 Then  the following items are added to the the cart
+19:33:09.292 [main] INFO  com.stepDefinitions.ServiceHooks:103 - Closed the browser and driver instance
